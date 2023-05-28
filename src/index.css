@@ -12,3 +12,6 @@
   -webkit-text-size-adjust: 100%;
 }
 
+ul {
+  padding-inline-start: 0px;
+}
